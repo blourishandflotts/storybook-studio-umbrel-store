@@ -3,7 +3,7 @@ id: storybook-studio
 name: Storybook Studio
 tagline: Your personal story library and production studio
 category: Media
-version: "0.3.1"
+version: "0.3.2"
 port: 8787
 description: >-
   Self-hosted book and chapter library, manuscript workspace, and audio/video
@@ -16,7 +16,7 @@ support: https://github.com/blourishandflotts/storybook-studio-umbrel-store/issu
 submitter: Storybook Studio
 submission: https://github.com/blourishandflotts/storybook-studio-umbrel-store
 gallery: []
-releaseNotes: "Separate public-domain Faithful Restoration from fanfiction Beautiful Prose. Protect source manuscripts and prepare spoken chapter headings without rewrites."
+releaseNotes: "Restore startup with a tested, version-pinned Docker image. Preserves existing books and manuscript sections."
 dependencies: []
 path: ""
 defaultUsername: ""
