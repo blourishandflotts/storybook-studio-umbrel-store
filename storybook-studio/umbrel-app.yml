@@ -3,7 +3,7 @@ id: storybook-studio
 name: Storybook Studio
 tagline: Your personal story library and production studio
 category: Media
-version: "0.4.0"
+version: "0.4.1"
 port: 8787
 description: >-
   Self-hosted book and chapter library, manuscript workspace, and audio/video
@@ -16,7 +16,7 @@ support: https://github.com/blourishandflotts/storybook-studio-umbrel-store/issu
 submitter: Storybook Studio
 submission: https://github.com/blourishandflotts/storybook-studio-umbrel-store
 gallery: []
-releaseNotes: "AI-assisted Beautiful Prose drafting for fanfiction with OpenAI key settings, review controls, and a clean faithful source reader for public-domain classics."
+releaseNotes: "Beautiful Prose now uses manual ChatGPT copy and paste: GPT-6 High prompts, multi-part revisions, and separate draft approval. No API key required."
 dependencies: []
 path: ""
 defaultUsername: ""
