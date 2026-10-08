@@ -5,7 +5,7 @@ services:
       APP_HOST: storybook-studio_server_1
       APP_PORT: 8080
   server:
-    image: ghcr.io/blourishandflotts/storybook-studio:sha-34099ec457b7b6d8d6f5eeb9c7e3205811ac92d6
+    image: ghcr.io/blourishandflotts/storybook-studio:sha-fbe1eeec8a767be4d6bbe4a7f2cd296fb6b7de03
     restart: on-failure
     init: true
     stop_grace_period: 1m
