@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: storybook-studio
+name: Storybook Studio
+tagline: Your personal story library and production studio
+category: Media
+version: "0.1.0"
+port: 8787
+description: >-
+  Self-hosted book and chapter library, manuscript workspace, and audio/video
+  playback. This foundation release does not yet create AI narrations,
+  illustrations, synchronized page-turning videos, or shorts.
+developer: Storybook Studio
+website: https://github.com/blourishandflotts/storybook-studio-umbrel-store
+repo: https://github.com/blourishandflotts/storybook-studio-umbrel-store
+support: https://github.com/blourishandflotts/storybook-studio-umbrel-store/issues
+submitter: Storybook Studio
+submission: https://github.com/blourishandflotts/storybook-studio-umbrel-store
+gallery: []
+releaseNotes: "Initial library and manuscript foundation preview."
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
