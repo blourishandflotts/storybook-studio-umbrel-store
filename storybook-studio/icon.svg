@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#353056"/><stop offset="0.55" stop-color="#1b1733"/><stop offset="1" stop-color="#100f23"/></linearGradient>
+ <linearGradient id="page" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#fbf4ff"/><stop offset="0.58" stop-color="#cfb4ff"/><stop offset="1" stop-color="#9670e3"/></linearGradient>
+ <linearGradient id="under" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bd9af9"/><stop offset="1" stop-color="#6941ac"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<rect width="256" height="256" rx="54" fill="url(#bg)"/>
+<rect x="3" y="3" width="250" height="250" rx="52" fill="none" stroke="#7b5ab8" stroke-opacity=".75" stroke-width="3"/>
+<ellipse cx="128" cy="193" rx="82" ry="15" fill="#8659dc" opacity=".25" filter="url(#shadow)"/>
+<path d="M31 93 Q70 77 113 103 L125 181 Q85 155 37 174 Q31 170 31 162Z" fill="url(#under)"/>
+<path d="M225 93 Q184 77 143 103 L131 181 Q175 155 219 174 Q225 170 225 162Z" fill="url(#under)"/>
+<path d="M43 74 Q83 70 119 103 Q126 111 126 128 L126 194 Q88 162 49 169 Q43 169 43 161Z" fill="url(#page)"/>
+<path d="M213 74 Q173 70 137 103 Q130 111 130 128 L130 194 Q168 162 207 169 Q213 169 213 161Z" fill="url(#page)"/>
+<path d="M150 113 Q150 108 156 111 L188 130 Q193 134 188 138 L156 158 Q150 161 150 155Z" fill="#63439e"/>
+<path d="M126 125 L126 194 M130 125 L130 194" stroke="#eee1ff" stroke-opacity=".85" stroke-width="2"/>
+</svg>
