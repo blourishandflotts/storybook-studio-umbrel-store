@@ -3,7 +3,7 @@ id: storybook-studio
 name: Storybook Studio
 tagline: Your personal story library and production studio
 category: Media
-version: "0.2.0"
+version: "0.2.1"
 port: 8787
 description: >-
   Self-hosted book and chapter library, manuscript workspace, and audio/video
@@ -16,7 +16,7 @@ support: https://github.com/blourishandflotts/storybook-studio-umbrel-store/issu
 submitter: Storybook Studio
 submission: https://github.com/blourishandflotts/storybook-studio-umbrel-store
 gallery: []
-releaseNotes: "Import TXT and Markdown manuscripts with automatic section detection and preview."
+releaseNotes: "Improved TXT and Markdown import: recognize chapter titles on following lines and skip short title-page metadata."
 dependencies: []
 path: ""
 defaultUsername: ""
