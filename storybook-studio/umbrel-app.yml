@@ -3,7 +3,7 @@ id: storybook-studio
 name: Storybook Studio
 tagline: Your personal story library and production studio
 category: Media
-version: "0.5.2"
+version: "0.5.3"
 port: 8787
 description: >-
   Self-hosted book and chapter library, manuscript workspace, and audio/video
@@ -16,7 +16,7 @@ support: https://github.com/blourishandflotts/storybook-studio-umbrel-store/issu
 submitter: Storybook Studio
 submission: https://github.com/blourishandflotts/storybook-studio-umbrel-store
 gallery: []
-releaseNotes: "Beautiful Prose now requests rich, classical, lyrical, ornate literary rewrites instead of light copyediting, while preserving dialogue and story fidelity."
+releaseNotes: "Beautiful Prose keeps elegant classical narration while protecting school-age dialogue pacing, emotional fidelity, and original scene breaks."
 dependencies: []
 path: ""
 defaultUsername: ""
