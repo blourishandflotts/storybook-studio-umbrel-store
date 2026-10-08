@@ -3,7 +3,7 @@ id: storybook-studio
 name: Storybook Studio
 tagline: Your personal story library and production studio
 category: Media
-version: "0.3.0"
+version: "0.3.1"
 port: 8787
 description: >-
   Self-hosted book and chapter library, manuscript workspace, and audio/video
@@ -16,7 +16,7 @@ support: https://github.com/blourishandflotts/storybook-studio-umbrel-store/issu
 submitter: Storybook Studio
 submission: https://github.com/blourishandflotts/storybook-studio-umbrel-store
 gallery: []
-releaseNotes: "Beautiful Prose editing workspace: preserve originals, save separate drafts, review and approve or reject edits. AI generation is not yet enabled."
+releaseNotes: "Separate public-domain Faithful Restoration from fanfiction Beautiful Prose. Protect source manuscripts and prepare spoken chapter headings without rewrites."
 dependencies: []
 path: ""
 defaultUsername: ""
