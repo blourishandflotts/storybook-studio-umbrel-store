@@ -1,6 +1,10 @@
 name: Generate Umbrel PNG icon
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/generate-icon.yml'
+      - 'storybook-studio/icon.svg'
 permissions:
   contents: write
 jobs:
